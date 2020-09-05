@@ -1,0 +1,21 @@
+{
+  "name": "real-time-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.0",
+    "secure-random": "^1.1.2",
+    "socket.io": "^2.3.0",
+    "wikifakt": "^1.0.3",
+    "zumjs": "^0.4.2"
+  }
+}
